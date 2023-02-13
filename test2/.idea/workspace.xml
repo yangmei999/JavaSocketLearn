@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dcc627f-689f-472f-9d41-f7a872793bf7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Gyjcb94CHLUmDrogHgX9CIHjTZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.RotateArray">
+    <configuration name="ChangeOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChangeOrder" />
+      <module name="test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Digital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Digital" />
+      <module name="test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMedian" />
+      <module name="test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuiWenChuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HuiWenChuan" />
+      <module name="test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotateArray" />
+      <module name="test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FindMedian" />
+      <item itemvalue="Application.ChangeOrder" />
+      <item itemvalue="Application.Digital" />
+      <item itemvalue="Application.HuiWenChuan" />
+      <item itemvalue="Application.RotateArray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.HuiWenChuan" />
+        <item itemvalue="Application.Digital" />
+        <item itemvalue="Application.ChangeOrder" />
+        <item itemvalue="Application.FindMedian" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dcc627f-689f-472f-9d41-f7a872793bf7" name="Default Changelist" comment="" />
+      <created>1667367797111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667367797111</updated>
+      <workItem from="1667367801054" duration="2241000" />
+      <workItem from="1668343246485" duration="30811000" />
+      <workItem from="1668788758460" duration="2076000" />
+      <workItem from="1668811124671" duration="18697000" />
+      <workItem from="1668895063962" duration="8789000" />
+      <workItem from="1670643032785" duration="7290000" />
+      <workItem from="1670658268095" duration="2991000" />
+      <workItem from="1676185093742" duration="2849000" />
+      <workItem from="1676278454528" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1667368795645">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1667368795645" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667368889678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1667368889678" />
+    <state width="397" height="466" key="DebuggerActiveHint" timestamp="1668858438235">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="397" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1668858438235" />
+    <state width="1237" height="164" key="GridCell.Tab.0.bottom" timestamp="1669044046478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1669044046478" />
+    <state width="1237" height="164" key="GridCell.Tab.0.center" timestamp="1669044046477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1669044046477" />
+    <state width="1237" height="164" key="GridCell.Tab.0.left" timestamp="1669044046477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1669044046477" />
+    <state width="1237" height="164" key="GridCell.Tab.0.right" timestamp="1669044046477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1669044046477" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1668858678443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1668858678443" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1668858678443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1668858678443" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1668858678443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1668858678443" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1668858678443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1668858678443" />
+    <state x="91" y="0" key="SettingsEditor" timestamp="1670681055357">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1670681055357" />
+    <state x="195" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1668840368110">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="195" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1668840368110" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1670656502159">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1670656502159" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ChangeOrder.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IsBalanced.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6d2441c-298d-4fa0-87b1-8b3514dc6ede" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="socket_c" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\m\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LQSQIpoNrGQ9GFXxC533FUEOgx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.UdpclientDemo01">
+    <configuration name="TcpClientDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson02.TcpClientDemo02" />
+      <module name="socket_c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpServerDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson02.TcpServerDemo02" />
+      <module name="socket_c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInetAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson01.TestInetAddress" />
+      <module name="socket_c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpclientDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson03.UdpclientDemo01" />
+      <module name="socket_c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpserverDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson03.UdpserverDemo01" />
+      <module name="socket_c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UdpclientDemo01" />
+        <item itemvalue="Application.UdpserverDemo01" />
+        <item itemvalue="Application.TcpClientDemo02" />
+        <item itemvalue="Application.TcpServerDemo02" />
+        <item itemvalue="Application.TestInetAddress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d2441c-298d-4fa0-87b1-8b3514dc6ede" name="Default Changelist" comment="" />
+      <created>1675801795320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675801795320</updated>
+      <workItem from="1675801798589" duration="7130000" />
+      <workItem from="1676000821431" duration="24000" />
+      <workItem from="1676107495457" duration="7810000" />
+      <workItem from="1676276199383" duration="2210000" />
+      <workItem from="1676278466130" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="161" key="GridCell.Tab.0.bottom" timestamp="1676278596934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1676278596934" />
+    <state width="1237" height="220" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1676278428644" />
+    <state width="1237" height="161" key="GridCell.Tab.0.center" timestamp="1676278596934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1676278596934" />
+    <state width="1237" height="220" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1676278428644" />
+    <state width="1237" height="161" key="GridCell.Tab.0.left" timestamp="1676278596934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1676278596934" />
+    <state width="1237" height="220" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1676278428644" />
+    <state width="1237" height="161" key="GridCell.Tab.0.right" timestamp="1676278596934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1676278596934" />
+    <state width="1237" height="220" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1676278428644" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1676278428644">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1676278428644" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1676278428644">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1676278428644" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1676278428644">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1676278428644" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1676278428644">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1676278428644" />
+    <state x="28" y="0" key="new project wizard" timestamp="1676182349478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1676182349478" />
+  </component>
+</project>
